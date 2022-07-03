@@ -8,7 +8,7 @@ The  popularity  of  using  robots  in  industries  and factories instead of hum
 
 * Circuit Diagram-
  <p align ="center" >
-  <img  width="700" src="" alt="Material Bread logo">
+  <img  width="700" src="https://github.com/sankalp20436/Robotic-Arm/blob/main/circuit.png" alt="Material Bread logo">
   </p>
 
 * robotic arm-
